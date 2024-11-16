@@ -8,8 +8,7 @@ export default function Home() {
        <p className="p-10 pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quis reiciendis cum adipisci totam perspiciatis fugit quo, ducimus recusandae hic obcaecati provident in consectetur magni, molestias vero qui? Repudiandae, quo.</p>
        <div className="flex justify-center">
         <button className="border bg-pink-100 rounded-md p-2 hover:bg-yellow-50 font-medium hover:text-pink-400">
-          <Link href="/tickets">View Tickets
-          </Link>
+          <Link href="/tickets">View Tickets</Link>
           </button>
        </div>
        <h4 className="text-pink-400 pt-5 pl-10">Company Update</h4>
